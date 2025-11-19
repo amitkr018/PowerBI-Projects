@@ -1,0 +1,31 @@
+Ecommerce Sales Dashboard Insights:
+
+1. Overall Performance:
+   - Total Sales Amount: 438K
+   - Total Profit: 37K
+   - Total Quantity Sold: 5615
+   - Average Order Value: 121K
+
+2. Top States by Sales:
+   - Maharashtra leads significantly, followed by Madhya Pradesh and Uttar Pradesh.
+
+3. Product Category Insights:
+   - Clothing accounts for 63% of total quantity sold.
+   - Electronics and Furniture follow with 21% and 17%, respectively.
+
+4. Monthly Profit Trends:
+   - Highest profits observed in January and December.
+   - Losses recorded in June and July.
+
+5. Customer Analysis:
+   - Harivansh and Madhav are the top customers by total purchase amount.
+
+6. Payment Mode Distribution:
+   - COD is the most used payment method (44%), followed by UPI and Debit Card.
+
+7. Sub-Category Profit:
+   - Printers generated the highest profit.
+   - Bookcases and Sarees also performed well.
+
+Conclusion:
+The dashboard highlights strong sales in clothing and high profits in printers. Maharashtra is the top-performing state, and customer-specific targeting (Harivansh & Madhav) could improve retention. There is an opportunity to reduce losses during mid-year months (June & July).
