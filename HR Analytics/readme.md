@@ -54,7 +54,7 @@ This dashboard analyzes **employee attrition** across various dimensions such as
 | Research Scientist | 47 |
 | Sales Representative | 33 |
 
-** Amit Kumar **
+**Amit Kumar**
 amitjnv1268@gmail.com
 
 
