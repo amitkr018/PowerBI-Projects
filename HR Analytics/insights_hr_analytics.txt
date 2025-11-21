@@ -1,0 +1,46 @@
+HR Analytics Dashboard Insights:
+
+1. Overall Summary:
+   - Total Employees: 1,470
+   - Total Attrition: 237 employees
+   - Attrition Rate: 16.1%
+   - Average Age: 37 years
+   - Average Salary: 6.5K
+   - Average Tenure: 7 years
+
+2. Attrition by Gender:
+   - Higher attrition among Males (140) compared to Females (79).
+
+3. Attrition by Education:
+   - Life Sciences (38%) and Medical (27%) show the highest attrition.
+   - Marketing (15%) and Technical Degree (14%) are moderate.
+   - Other education fields account for 5%.
+
+4. Attrition by Age Group:
+   - Highest attrition in the 26–35 age group (116).
+   - Younger group 18–25 (44) and 36–45 (43) also show notable attrition.
+   - Attrition drops sharply after 45+, with lowest in 55+ (8).
+
+5. Attrition by Salary Slab:
+   - Majority of attrition occurs in the lowest salary band (Up to 5K) with 163 employees.
+   - Attrition decreases as salary increases:
+     - 5K–10K: 49
+     - 10K–15K: 20
+     - 15K+: 5
+
+6. Attrition by Years at Company:
+   - Peak attrition around the 1-year mark.
+   - Steep drop after early years, with relatively lower attrition among long-tenured employees.
+   - A smaller spike is visible around 8–9 years.
+
+7. Attrition by Job Role:
+   - Laboratory Technician (62) and Sales Executive (57) have the highest attrition counts.
+   - Research Scientist (47) and Sales Representative (33) also show significant attrition.
+
+8. Key Takeaways:
+   - Attrition is concentrated among:
+     - Mid-age employees (26–35),
+     - Lower salary slabs,
+     - Early tenure (especially around 1 year),
+     - Specific roles like Laboratory Technician and Sales Executive.
+   - Focusing retention strategies on compensation, early engagement, and role-specific interventions can reduce overall attrition and improve workforce stability.
