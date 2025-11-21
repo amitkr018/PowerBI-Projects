@@ -1,0 +1,43 @@
+Super Store Sales Dashboard Insights:
+
+1. Overall Performance:
+   - Total Sales: 1.6M
+   - Total Quantity Sold: 22K
+   - Total Profit: 175.26K
+   - Average Delivery Day: (as per dashboard metric)
+
+2. Sales by Segment:
+   - Consumer segment leads with 48% of total sales.
+   - Corporate contributes 33%.
+   - Home Office accounts for 19%.
+
+3. Monthly Sales YoY:
+   - Clear year-over-year growth in 2020 vs 2019.
+   - Strong uplift in Q4 with peaks in November and December.
+
+4. Monthly Profit YoY:
+   - Profit also improves in 2020, mirroring the sales trend.
+   - End-of-year months deliver the highest profitability.
+
+5. Sales by State:
+   - Sales are distributed across the U.S., with higher concentration in major coastal states.
+   - Several states show strong bubble sizes indicating high revenue contribution.
+
+6. Sales by Payment Mode:
+   - COD is the most used mode (43%).
+   - Online payments contribute 35%, Cards 22%.
+
+7. Sales by Ship Mode:
+   - Standard Class dominates shipping volume (~0.33M).
+   - Second Class, First Class, and Same Day contribute smaller yet significant shares.
+
+8. Sales by Category:
+   - Office Supplies leads (~0.64M).
+   - Technology (~0.47M) and Furniture (~0.45M) follow closely.
+
+9. Sales by Sub-Category:
+   - Phones generate the highest sales (0.20M).
+   - Chairs (0.18M) and Binders (0.17M) are strong performers.
+
+Conclusion:
+The Super Store shows solid YoY growth in both sales and profit, driven mainly by the Consumer segment, Office Supplies category, and high-performing subcategories like Phones and Chairs. Optimizing shipping modes and targeting high-potential states can further enhance performance.
